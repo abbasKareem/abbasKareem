@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @abbasKareem
-- 👀 I’m a full stack developer
-- 🌱 I’m currently learning `Next js and nest js`
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me `kareemabbas106@gmail.com`
+Hi !I’m @abbasKareem and I am a Laravel, React JS Developer, who loves work with challenging designs and amazing functionalities. Here is a list of some of the things I’m familiar with:
 
+🔸Programming Languages: Python,C++, PHP Core
 
+🔸 Script Languages: JavaScript, PHP, CSS3, JQuery, HTML5 , Bootstrap , React js, Next js
+
+🔸 Databases: MySQL, Postgres, MongoDB, Redis
+
+🔸 Frameworks: Laravel(PHP), Django(Python),Express(JavaScript), React Js(16.10), React Native
+
+🔸 CMS: Drupal 8
+
+🔸 Tools and Systems: Git, Docker, kubernetes
+
+🔸 APIs and Frameworks: Google Maps, AWS S3, SendGrid, Twilio, Google Calendar, Outlook Calendar, Stripe, REST API Web Services, GraphQl
+
+🔸 OS:- Microsoft Window, Linux -(Ubuntu & CentOS)
+
+🔸 Others: Live socket, Push notification(Web, mobile), Cron job, Video Calling, Audio call, Text messages, SMS Auto bot system.
+
+Email :- kareemabbas106@gmail.com

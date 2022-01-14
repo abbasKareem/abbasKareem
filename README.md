@@ -6,7 +6,7 @@ Hi !I’m @abbasKareem and I am a Laravel, React JS Developer, who loves work wi
 
 🔸 Databases: MySQL, Postgres, MongoDB, Redis
 
-🔸 Frameworks: Laravel(PHP), Django(Python),Express(JavaScript), React Js(16.10), React Native
+🔸 Frameworks: Laravel(PHP),FastAPI(Python), Django(Python),Express(JavaScript), React Js(16.10), React Native
 
 🔸 CMS: Drupal 8
 

@@ -1,14 +1,12 @@
-Hi !I’m @abbasKareem and I am a Laravel, React JS Developer, who loves work with challenging designs and amazing functionalities. Here is a list of some of the things I’m familiar with:
+Hi !I’m @abbasKareem and I am a Python, React JS Developer, who loves work with challenging designs and amazing functionalities. Here is a list of some of the things I’m familiar with:
 
-🔸Programming Languages: Python,C++, PHP Core
+🔸Programming Languages: Python,C++, golang
 
 🔸 Script Languages: JavaScript, PHP, CSS3, JQuery, HTML5 , Bootstrap , React js, Next js
 
 🔸 Databases: MySQL, Postgres, MongoDB, Redis
 
-🔸 Frameworks: Laravel(PHP),FastAPI(Python), Django(Python),Express(JavaScript), React Js(16.10), React Native
-
-🔸 CMS: Drupal 8
+🔸 Frameworks: Machine Learning(scikit learn),FastAPI(Python), Django(Python),Express(JavaScript), React Js(16.10), React Native
 
 🔸 Tools and Systems: Git, Docker, kubernetes
 
